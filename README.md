@@ -111,7 +111,9 @@ Pass Miniworld ACE/
 
 ### 预编译文件
 
-`dist/minigameappbase.dll`（v1.0.0，2026-11-14）
+`dist/minigameappbase.dll`（v1.60.1，2026-11-14）
+
+也可从 [GitHub Releases](https://github.com/Daling713/Make-Mini-World-have-no-ACE/releases/latest) 下载。
 
 - SHA-256: `160F31AA2F055B7EF239F9DB80E17C22D97FBFB8286D64D292D79089381ACEE6`
 - MD5: `8561A9FAAB38EDC3ACD3C2B3CCD3E28D`
@@ -232,7 +234,9 @@ Pass Miniworld ACE/
 
 ### Prebuilt binary
 
-`dist/minigameappbase.dll` (v1.0.0, 2026-11-14)
+`dist/minigameappbase.dll` (v1.60.1, 2026-11-14)
+
+You can also download it from [GitHub Releases](https://github.com/Daling713/Make-Mini-World-have-no-ACE/releases/latest).
 
 - SHA-256: `160F31AA2F055B7EF239F9DB80E17C22D97FBFB8286D64D292D79089381ACEE6`
 - MD5: `8561A9FAAB38EDC3ACD3C2B3CCD3E28D`
