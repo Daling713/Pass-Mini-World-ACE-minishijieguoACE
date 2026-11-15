@@ -1,0 +1,9 @@
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+.vs/
+Thumbs.db
+desktop.ini
+.DS_Store
